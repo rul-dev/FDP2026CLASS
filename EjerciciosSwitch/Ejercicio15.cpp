@@ -20,7 +20,7 @@ int main(){
         cout << "Salario no válido." << endl;
         return 0;
     }
-    cout << opcion << endl;
+    //cout << opcion << endl;
 
     switch(opcion){
         case 1:
